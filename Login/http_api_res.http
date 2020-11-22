@@ -1,0 +1,17 @@
+//GET https://jsonplaceholder.typicode.com/photos
+
+
+
+##
+
+
+POST https://jsonplaceholder.typicode.com/photos
+Content-Type: application/json
+
+{
+    "albumId": 101,
+    "id": 5001,
+    "title": "error quasi sunt cupiditate voluptate ea odit beatae",
+    "url": "https://via.placeholder.com/600/6dd9cb",
+    "thumbnailUrl": "https://via.placeholder.com/150/6dd9cb"
+}
